@@ -1,0 +1,3 @@
+title=AFS USA Student Finder
+author=Davide Depau
+orientation=landscape
